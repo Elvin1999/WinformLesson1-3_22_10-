@@ -31,6 +31,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            this.BackgroundImage = Properties.Resources._360_F_557576322_am5DuFwdo7GNMlKh3kCfTvKVxDMaKPNL;
             //var result = MessageBox.Show("C# is hard or not ?","Lesson",MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
             //if (result == DialogResult.Yes)
             //{
